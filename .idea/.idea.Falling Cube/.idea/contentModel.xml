@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Unity Projects\Falling Cube" t="IncludeFlat">
+      <e p="Falling Cube.sln" t="IncludeFlat" />
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive" />
+    </e>
+    <e p="C:\Users\hoshyar\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\hoshyar\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_Falling Cube.262918046.00" t="ExcludeRecursive" />
+  </component>
+</project>
