@@ -40,7 +40,11 @@ public class AudioManager : MonoBehaviour
 
     private void SceneManagerOnSceneLoaded(Scene arg0, LoadSceneMode arg1)
     {
-        audioSource.Play();
+        if (!AudioManager.Instance.IsBackgroundMusicMuted())
+        {
+            audioSource.Play();
+        }
+
     }
     private void OnGameOver()
     {
